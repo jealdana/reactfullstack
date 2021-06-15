@@ -23,6 +23,11 @@
       "StackName": "amplify-fullstackapp-staging-90229",
       "StackId": "arn:aws:cloudformation:us-east-1:029547164325:stack/amplify-fullstackapp-staging-90229/44ffefd0-cd9f-11eb-83fc-0a803f1342f3",
       "AmplifyAppId": "du9ikcwgedwx2"
+    },
+    "categories": {
+      "auth": {
+        "fullstackapp": {}
+      }
     }
   }
 }
